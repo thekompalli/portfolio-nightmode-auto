@@ -151,8 +151,8 @@ section{
 
 @media(max-width: 600px) {
     .container{
-        
-        height: 150vh;
+        margin-top: 10%;
+        height: 170vh;
 
         .abt{
             height: 300px;
@@ -181,5 +181,6 @@ section{
     }
     section{
        position: relative;
+       
     }
 }

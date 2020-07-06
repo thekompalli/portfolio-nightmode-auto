@@ -1,13 +1,19 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, DoCheck } from '@angular/core';
+import * as moment from 'moment';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
-export class AppComponent implements OnInit {
+export class AppComponent implements OnInit, DoCheck {
   title = 'pfNew';
   toggle:boolean;
+  time;
+
+  ngDoCheck(){
+    this.time = moment().format('LTS')
+  }
   ngOnInit () {
     
     if(this.getTime() > 19 || this.getTime() < 5){
