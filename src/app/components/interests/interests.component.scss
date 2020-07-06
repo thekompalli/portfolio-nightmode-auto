@@ -1,0 +1,13 @@
+.container{
+    height: 100vh;
+    padding: 10%;
+    .int{
+        margin-top: 15%;
+    }
+}
+
+@media(max-width:600px) {
+    .container{
+        height: 100%;
+    }
+}

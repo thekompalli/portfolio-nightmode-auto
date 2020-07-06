@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+.container {
+    padding: 10%;
+    font-family: 'Montserrat', sans-serif;
+    h1{
+        color: dodgerblue;
+    }
+    a{
+        font-size: 30px;
+        margin-bottom: 12px;
+    }
+    .head{
+        margin-top: 5%;
+    }
+    .about{
+        font-size: 20px;
+        a{
+            font-size: 20px;
+            color: inherit;
+        }
+    }
+    .skills{
+        .view{
+            a{
+                color: inherit;
+                font-size: inherit;
+            }
+        }
+    }
+    
+    .contact{
+        margin-top: 15%;
+        color: dodgerblue;
+        text-transform: uppercase;
+    }
+    .fonts {
+        font-size: 30px;
+    }
+}
