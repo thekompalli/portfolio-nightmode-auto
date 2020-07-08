@@ -17,33 +17,9 @@ export class ProjectsComponent implements OnInit {
      backSpeed: 80,
      loop: true
     }
-    const options2 = {
-      strings: ['Angular, Chart.js'],
-     typeSpeed: 80,
-     backSpeed: 80,
-     loop: true
-    }
-    const options3 = {
-      strings: ['Python Flask, Angular'],
-     typeSpeed: 80,
-     backSpeed: 80,
-     loop: true
-    }
-    const options4 = {
-      strings: ['HTML, CSS, Vanilla JavaScript'],
-     typeSpeed: 80,
-     backSpeed: 80,
-     loop: true
-    }
     
     const typed = new Typed('.type1', options1);
-    const typed2 = new Typed('.type2', options2);
-    const typed3 = new Typed('.type3', options1);
-    const typed4 = new Typed('.type4', options1);
-    const typed5 = new Typed('.type5', options3);
-    const typed6 = new Typed('.type6', options4);
-    const typed7 = new Typed('.type7', options4);
-    const typed8 = new Typed('.type8', options4);
+ 
   }
   img1 = "assets/images/chat.png"
   img2 = "assets/images/covid.jpg"
