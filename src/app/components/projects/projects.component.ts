@@ -29,5 +29,6 @@ export class ProjectsComponent implements OnInit {
   img6 = "assets/images/image.jpg"
   img7 = "assets/images/game.jpg"
   img8 = "assets/images/new.jpg"
+  img9 = "assets/images/npm.png"
 
 }
