@@ -152,7 +152,7 @@ section{
 @media(max-width: 600px) {
     .container{
         margin-top: 10%;
-        height: 170vh;
+        height: 210vh;
 
         .abt{
             height: 300px;
@@ -169,6 +169,9 @@ section{
         }
 
         .menu{
+
+
+
             a:hover::after{
                 width: 20%;
                 transition: width .3s;        ;
@@ -181,6 +184,5 @@ section{
     }
     section{
        position: relative;
-       
     }
 }
