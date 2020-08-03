@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 2742
+/Length 2732
 >>
 stream
 0.57 w
@@ -100,46 +100,46 @@ q BT 0 g 42.52 334.97 Td
 ET Q
 q BT 0 g 42.52 304.97 Td
 0 -18.00 Td
-/F2 15.00 Tf (User Authentication) Tj
+/F2 15.00 Tf (CRM Application) Tj
 ET Q
 q BT 0 g 42.52 280.97 Td
 0 -18.00 Td
-/F1 12.00 Tf (TechStack: Angular, Node.js, Express.js, MongoDB) Tj
+/F1 12.00 Tf (TechStack: Node.js, EJS, MongoDB, Express.js) Tj
 ET Q
 q BT 0 g 42.52 250.97 Td
 0 -18.00 Td
-/F2 15.00 Tf (Users-posts) Tj
+/F2 15.00 Tf (User Authentication) Tj
 ET Q
 q BT 0 g 42.52 226.97 Td
 0 -18.00 Td
-/F1 12.00 Tf (TechStack: Angular, Node.js, Express.js, MongoDB, multer) Tj
+/F1 12.00 Tf (TechStack: Angular, Node.js, Express.js, MongoDB) Tj
 ET Q
 q BT 0 g 42.52 196.97 Td
 0 -18.00 Td
-/F2 15.00 Tf (COVID-19 visualizer and tracker) Tj
+/F2 15.00 Tf (Users-posts) Tj
 ET Q
 q BT 0 g 42.52 172.97 Td
 0 -18.00 Td
-/F1 12.00 Tf (TechStack: Angular, chartjs) Tj
+/F1 12.00 Tf (TechStack: Angular, Node.js, Express.js, MongoDB, multer) Tj
 ET Q
 q BT 0 g 42.52 142.97 Td
 0 -18.00 Td
-/F2 15.00 Tf (Twitter Recreated) Tj
+/F2 15.00 Tf (COVID-19 visualizer and tracker) Tj
 ET Q
 q BT 0 g 42.52 118.97 Td
 0 -18.00 Td
-/F1 12.00 Tf (TechStack: Nodejs, Express, Twit) Tj
+/F1 12.00 Tf (TechStack: Angular, chartjs) Tj
 ET Q
 q BT 0 g 42.52 88.97 Td
 0 -18.00 Td
-/F2 15.00 Tf (Student-Mentor Assign) Tj
+/F2 15.00 Tf (Twitter Recreated) Tj
 ET Q
 q BT 0 g 42.52 64.97 Td
 0 -18.00 Td
-/F1 12.00 Tf (TechStack: Angular, Node.js, Express.js, MongoDB) Tj
+/F1 12.00 Tf (TechStack: Nodejs, Express, Twit) Tj
 ET Q
 q BT 0 g 42.52 34.97 Td
-0 -25.20 Td
+0 -18.00 Td
 ET Q
 endstream
 endobj
@@ -153,149 +153,157 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 3466
+/Length 3657
 >>
 stream
 0.57 w
 0 G
-q BT 0.118 0.565 1.000 rg 42.52 841.89 Td
+q BT 0.129 0.145 0.161 rg 42.52 841.89 Td
+0 -18.00 Td
+/F2 15.00 Tf (Student-Mentor Assign) Tj
+ET Q
+q BT 0 g 42.52 817.89 Td
+0 -18.00 Td
+/F1 12.00 Tf (TechStack: Angular, Node.js, Express.js, MongoDB) Tj
+ET Q
+q BT 0 g 42.52 787.89 Td
 0 -25.20 Td
 0.118 0.565 1.000 rg
 /F2 21.00 Tf (Education) Tj
 ET Q
-q BT 0 g 42.52 810.69 Td
+q BT 0 g 42.52 756.69 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F2 15.00 Tf (SRM Institute of Science & Technology) Tj
 ET Q
-q BT 0 g 42.52 786.69 Td
+q BT 0 g 42.52 732.69 Td
 0 -14.40 Td
 0.502 0.502 0.502 rg
 /F2 12.00 Tf (JUL 2016 - JUL 2020 // Chennai, India) Tj
 ET Q
-q BT 0 g 42.52 766.29 Td
+q BT 0 g 42.52 712.29 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F1 12.00 Tf (Bachelor of Technology in Electronics and Communications Engineering with a percentage of ) Tj
 /F2 12.00 Tf (82.3) Tj
 ET Q
-q BT 0 g 42.52 736.29 Td
+q BT 0 g 42.52 682.29 Td
 0 -18.00 Td
 /F2 15.00 Tf (Sri Chaitanya Junior College) Tj
 ET Q
-q BT 0 g 42.52 712.29 Td
+q BT 0 g 42.52 658.29 Td
 0 -14.40 Td
 0.502 0.502 0.502 rg
 /F2 12.00 Tf (JUL 2014 - JUL 2016 // Guntur, India) Tj
 ET Q
-q BT 0 g 42.52 691.89 Td
+q BT 0 g 42.52 637.89 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F1 12.00 Tf (Class XII with a percentage of ) Tj
 /F2 12.00 Tf (95.2) Tj
 ET Q
-q BT 0 g 42.52 661.89 Td
+q BT 0 g 42.52 607.89 Td
 0 -18.00 Td
 /F2 15.00 Tf (Bhashyam High School) Tj
 ET Q
-q BT 0 g 42.52 637.89 Td
+q BT 0 g 42.52 583.89 Td
 0 -14.40 Td
 0.502 0.502 0.502 rg
 /F2 12.00 Tf (JUL 2013 - JUL 2014 // Bapatla, India) Tj
 ET Q
-q BT 0 g 42.52 617.49 Td
+q BT 0 g 42.52 563.49 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F1 12.00 Tf (Class X with a CGPA of ) Tj
 /F2 12.00 Tf (10.0) Tj
 ET Q
-q BT 0 g 42.52 579.45 Td
+q BT 0 g 42.52 525.45 Td
 0 -25.20 Td
 0.118 0.565 1.000 rg
 /F2 21.00 Tf (Experience) Tj
 ET Q
-q BT 0 g 42.52 548.25 Td
+q BT 0 g 42.52 494.25 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F2 15.00 Tf (Full Stack Developer Trainee ) Tj
 0.502 0.502 0.502 rg
 /F2 15.00 Tf (@ Guvi Geek Network Pvt Ltd.) Tj
 ET Q
-q BT 0 g 42.52 524.25 Td
+q BT 0 g 42.52 470.25 Td
 0 -14.40 Td
 /F2 12.00 Tf (MAR 2020 - JUL 2020) Tj
 ET Q
-q BT 0 g 62.52 495.35 Td
+q BT 0 g 62.52 441.35 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F1 12.00 Tf (Learnt required Tech Stack for full stack development.) Tj
-56.83 481.25 m 56.83 482.21 56.05 482.99 55.09 482.99 c
-54.13 482.99 53.35 482.21 53.35 481.25 c
-53.35 480.28 54.13 479.51 55.09 479.51 c
-56.05 479.51 56.83 480.28 56.83 481.25 c
+56.83 427.25 m 56.83 428.21 56.05 428.99 55.09 428.99 c
+54.13 428.99 53.35 428.21 53.35 427.25 c
+53.35 426.28 54.13 425.51 55.09 425.51 c
+56.05 425.51 56.83 426.28 56.83 427.25 c
 B
 ET Q
-q BT 0 g 62.52 468.85 Td
+q BT 0 g 62.52 414.85 Td
 0 -18.00 Td
 /F1 12.00 Tf (It includes MongoDB, Express.js, Angular, Node.js.) Tj
-56.83 454.74 m 56.83 455.70 56.05 456.48 55.09 456.48 c
-54.13 456.48 53.35 455.70 53.35 454.74 c
-53.35 453.78 54.13 453.00 55.09 453.00 c
-56.05 453.00 56.83 453.78 56.83 454.74 c
+56.83 400.74 m 56.83 401.70 56.05 402.48 55.09 402.48 c
+54.13 402.48 53.35 401.70 53.35 400.74 c
+53.35 399.78 54.13 399.00 55.09 399.00 c
+56.05 399.00 56.83 399.78 56.83 400.74 c
 B
 ET Q
-q BT 0 g 62.52 442.34 Td
+q BT 0 g 62.52 388.34 Td
 0 -18.00 Td
 /F1 12.00 Tf (Developed various projects using MEAN stack.) Tj
-56.83 428.24 m 56.83 429.20 56.05 429.98 55.09 429.98 c
-54.13 429.98 53.35 429.20 53.35 428.24 c
-53.35 427.28 54.13 426.50 55.09 426.50 c
-56.05 426.50 56.83 427.28 56.83 428.24 c
+56.83 374.24 m 56.83 375.20 56.05 375.98 55.09 375.98 c
+54.13 375.98 53.35 375.20 53.35 374.24 c
+53.35 373.28 54.13 372.50 55.09 372.50 c
+56.05 372.50 56.83 373.28 56.83 374.24 c
 B
 ET Q
-q BT 0 g 42.52 396.00 Td
+q BT 0 g 42.52 342.00 Td
 0 -25.20 Td
 0.118 0.565 1.000 rg
 /F2 21.00 Tf (Certifications) Tj
 ET Q
-q BT 0 g 42.52 364.80 Td
+q BT 0 g 42.52 310.80 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F2 15.00 Tf (RedHat Certified System Administrator) Tj
 ET Q
-q BT 0 g 42.52 340.80 Td
+q BT 0 g 42.52 286.80 Td
 0 -14.40 Td
 0.502 0.502 0.502 rg
 /F2 12.00 Tf (MAY 2018) Tj
 ET Q
-q BT 0 g 42.52 320.40 Td
+q BT 0 g 42.52 266.40 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F2 15.00 Tf (Neural Networks and Deep Learning \(COURSERA\)) Tj
 ET Q
-q BT 0 g 42.52 296.40 Td
+q BT 0 g 42.52 242.40 Td
 0 -14.40 Td
 0.502 0.502 0.502 rg
 /F2 12.00 Tf (APR 2019) Tj
 ET Q
-q BT 0 g 42.52 276.00 Td
+q BT 0 g 42.52 222.00 Td
 0 -25.20 Td
 0.118 0.565 1.000 rg
 /F2 21.00 Tf (Interests) Tj
 ET Q
-q BT 0 g 42.52 236.76 Td
+q BT 0 g 42.52 182.76 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F1 12.00 Tf (Music, Traveling, Pets, Books, Programming ) Tj
 0 -18.00 Td
 /F1 12.00 Tf (and Playing Badminton.) Tj
 ET Q
-q BT 0 g 42.52 188.76 Td
+q BT 0 g 42.52 134.76 Td
 0 -25.20 Td
 0.118 0.565 1.000 rg
 /F2 21.00 Tf (Languages Known) Tj
 ET Q
-q BT 0 g 42.52 157.56 Td
+q BT 0 g 42.52 103.56 Td
 0 -18.00 Td
 0.129 0.145 0.161 rg
 /F1 12.00 Tf (English, Telugu and Hindi) Tj
@@ -473,7 +481,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 1.5.3)
-/CreationDate (D:20200801013519+05'30')
+/CreationDate (D:20200804001031+05'30')
 >>
 endobj
 22 0 obj
@@ -487,35 +495,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000006545 00000 n 
-0000008370 00000 n 
+0000006726 00000 n 
+0000008551 00000 n 
 0000000015 00000 n 
 0000000124 00000 n 
-0000002918 00000 n 
-0000003027 00000 n 
-0000006608 00000 n 
-0000006733 00000 n 
-0000006863 00000 n 
-0000006996 00000 n 
-0000007134 00000 n 
-0000007258 00000 n 
-0000007387 00000 n 
-0000007519 00000 n 
-0000007655 00000 n 
-0000007783 00000 n 
-0000007910 00000 n 
-0000008039 00000 n 
-0000008172 00000 n 
-0000008274 00000 n 
-0000008620 00000 n 
-0000008706 00000 n 
+0000002908 00000 n 
+0000003017 00000 n 
+0000006789 00000 n 
+0000006914 00000 n 
+0000007044 00000 n 
+0000007177 00000 n 
+0000007315 00000 n 
+0000007439 00000 n 
+0000007568 00000 n 
+0000007700 00000 n 
+0000007836 00000 n 
+0000007964 00000 n 
+0000008091 00000 n 
+0000008220 00000 n 
+0000008353 00000 n 
+0000008455 00000 n 
+0000008801 00000 n 
+0000008887 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <19494088B9F7BE59A1AEEDBDF98BF77C> <19494088B9F7BE59A1AEEDBDF98BF77C> ]
+/ID [ <3D90C48872A3FA08069F8339C95D2954> <3D90C48872A3FA08069F8339C95D2954> ]
 >>
 startxref
-8810
+8991
 %%EOF
